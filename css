@@ -1,0 +1,13 @@
+article p:first-child {   
+    font-size: 120%;
+    font-weight: bold
+} 
+p::first-letter {
+  color: crimson;
+  font-size: 120%
+}
+body { 
+  background-image: url(https://i.pinimg.com/originals/5c/a2/a0/5ca2a09d342214da5d97db49a1a27065.jpg);
+   margin-left: 200px;
+   margin-top: 50px
+}
